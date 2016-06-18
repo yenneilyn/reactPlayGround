@@ -1,1 +1,9 @@
-This is to create react project
+this project contains a few ways to do module export
+-- default export using es6 export syntax
+	1. transpile es6 to es5 then use browserify to make it work in the browser
+
+-- regular export using es6 export syntax
+		1. transpile es6 to es5 then use browserify to make it work in the browser
+
+-- using node module.export
+		1. browserify 
